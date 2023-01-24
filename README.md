@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<strong> My Name is Noah </strong>
+<strong> My Name is Noah <br></strong>
 <strong> I am a second year student at BU studying Computer Engineering </strong>
 
 
