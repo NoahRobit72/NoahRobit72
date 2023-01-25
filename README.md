@@ -2,6 +2,8 @@
 
 <strong> My Name is Noah <br></strong>
 <strong> I am a second year student at BU studying Computer Engineering <br><br></strong>
+<strong> In my free time I enjoy Sailing and Programming <br></strong>
+
 
 
 
