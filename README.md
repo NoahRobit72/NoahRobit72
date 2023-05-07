@@ -2,7 +2,7 @@
 
 I'm an incoming Software Developer Intern @ the Nia Lab. 
 
-I am currently working building a company that will revolutionize the relationships that students have with research labs. 
+I am currently working building a company that will revolutionize the relationships that students have with research labs. The company is called ResearchRatings.com and can be found here at: [ResearchRatings.com](https://storied-syrniki-9241c1.netlify.app/)
 
 I am passionate about building software applications. In my free time, I build projects with web deveopment and microcontrollers.
 
