@@ -1,6 +1,8 @@
 ### Hey, I'm Noah! 👋 😃
 
-I'm currently a Software Developer Intern @ the Nia Lab. I am currently building a wireless tempature sensor project.  
+I'm an incoming Software Developer Intern @ the Nia Lab. 
+
+I am currently working building a company that will revolutionize the relationships that students have with research labs. 
 
 I am passionate about building software applications. In my free time, I build projects with web deveopment and microcontrollers.
 
