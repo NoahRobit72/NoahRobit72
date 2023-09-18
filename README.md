@@ -1,6 +1,5 @@
 ### Hey, I'm Noah! 👋 😃
 
-I'm an Software Developement Intern @ The Song Lab. 
 
 <!-- I am currently working building a company that will revolutionize the relationships that students have with research labs. The company is called  [ResearchRatings.com](https://storied-syrniki-9241c1.netlify.app/)
  -->
