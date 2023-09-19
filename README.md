@@ -1,10 +1,10 @@
 ### Hey, I'm Noah! 👋 😃
+I am an undergraduate at Boston University studying Computer Engineering. 
 
+In my free time, I enjoy building things. In the past, I have made software applications, woodworking projects, electronic hardware projects, and embedded systems projects.
 
-<!-- I am currently working building a company that will revolutionize the relationships that students have with research labs. The company is called  [ResearchRatings.com](https://storied-syrniki-9241c1.netlify.app/)
- -->
-I am passionate about building software applications. In my free time, I build projects with web deveopment and microcontrollers.
+Currently, I am working on creating a computerized start box called StartBox and a software company called ResearchRatings.com (Repo found here).
 
-Right now I am learning React.js, Python, and Networking Protocols.
+I am passionate about building solutions to the problems around me and working to improve the world. Feel free to reach out if you live in Boston or are stopping by. I would love to grab lunch!
 
-If you want to chat, feel free to reach out to me at: noahro@bu.edu
+My email is noahro at bu.edu and my phone number is (231) 342 - six nine three one.
